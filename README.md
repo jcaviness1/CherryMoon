@@ -1,7 +1,5 @@
 # CherryMoon
 
-This is an experimental website that I created as a learning-experience, a basis for me to be able to learn, practice, and build upon any new and existing skills that I learn.
-
 Although I did not originally intend for this website to be taken seriously, as this site does not contain a sole purpose other than redirecting to a signup form, it has provided me with a basis for me to practice and test on various skills including HTML, CSS, Javascript, utilizing various packages and frameworks such as node-fetch, nodemon, bootstrap, troubleshoot various server related issues with Windows Powershell, and utilizing process managers, as well as an API. For now I will not consider this website finished, as I am looking to expand the site by adding new features and functionalities, as well as to continue testing and applying new skills.
 
 This site implements pop culture "anime/kawaii/kpop" theme elements, music, pastel color contrast, gifs, images, and various fonts in order to create a "soft" and "y2k" aesthetic, as a form of self-expression.
