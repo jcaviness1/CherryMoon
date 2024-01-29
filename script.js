@@ -33,8 +33,8 @@ function mist3(){
     document.getElementById("anime").style.display="none";
 }
 function show() {
-    document.getElementById('image')
-            .style.display = "block";
+   var image = document.getElementById('image')
+           image.style.display = "block";
 
     document.getElementById('btnID')
             .style.display = "none";
@@ -55,3 +55,4 @@ function myFunction1(){
 
 
 }
+    
