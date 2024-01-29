@@ -13,3 +13,6 @@ In order to provide constant runtime to the website, I installed a process manag
 One problem I ended up fixing by changing the execution policy to discard server restriction
 
 Another where I had to install a package in order to activate pm2 startup, a command that continues the runtime of my server on pm2 in the case of crashes or reboots.
+
+
+Demo: https://jcaviness1.github.io/CherryMoon/
